@@ -1,1 +1,2 @@
 "My Git learning notes" 
+This assignment improves my understanding of version control and collaboration
