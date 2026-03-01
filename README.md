@@ -15,3 +15,9 @@ This project demonstrates my understanding of Git version control including comm
 
 Renatus Rukanga
 
+
+
+\## Learning outcome
+
+This project helped me understanding Git workflow including add, commit and push
+
